@@ -47,7 +47,7 @@ This project is an interactive Excel dashboard designed to analyze PhonePe UPI t
 
 ## 📷 Dashboard Preview
 
-PhonePe UPI Transaction Dashboard.png
+PhonePe_Dashboard.png
 
 ## 💡 Key Insights
 
